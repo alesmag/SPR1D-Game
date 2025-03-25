@@ -1,0 +1,21 @@
+20
+Il test di un programma puo essere usato per mostrare la presenza di bug, ma mai per mostrare la loro assenza
+De gustibus non est disputandum
+L informatica non riguarda i computer piu di quanto l astronomia riguardi i telescopi
+Dura lex sed lex
+Un algoritmo deve essere visto per essere creduto
+Errare humanum est, perseverare autem diabolicum
+In rebus dubis plurimum est audacia
+Uno dei miei giorni piu  produttivi e stato quando ho gettato via mille righe di codice
+Quando c e  un problema non cercare il colpevole, ma cerca la soluzione
+Vox populi, vox Dei
+Testing leads to failure, and failure leads to understanding
+Can che abbaia non morde
+Electa una via, non datur recursus ad alteram
+Chi non osa nulla, non speri in nulla
+Programs must be written for people to read, and only incidentally for machines to execute
+Colui che chiede e  stupido per un minuto, colui che non chiede e  stupido per tutta la vita
+Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime
+Un uomo che osa sprecare anche solo un ora del suo tempo non ha scoperto il valore della vita
+Programming is an art form that fights back
+First, solve the problem. Then, write the code. 

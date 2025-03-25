@@ -1,0 +1,3 @@
+D:/MyDrive/Programming/C/[UNICA]/PR1/ProgettoFinale/cmake-build-debug/CMakeFiles/ProgettoFinale.dir
+D:/MyDrive/Programming/C/[UNICA]/PR1/ProgettoFinale/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyDrive/Programming/C/[UNICA]/PR1/ProgettoFinale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

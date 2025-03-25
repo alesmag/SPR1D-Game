@@ -1,0 +1,7 @@
+#include "MorraCinese/MorraCinese.h"
+#include "Murra/Murra.h"
+#include "PariDispari/PariDispari.h"
+#include "Dadi/Dadi.h"
+#include "Biglie/Biglie.h"
+#include "Tris/Tris.h"
+#include "Impiccato/Impiccato.h"
