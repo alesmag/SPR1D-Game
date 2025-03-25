@@ -1,0 +1,3 @@
+/home/alesmag/Downloads/SPR1DGAME/CMakeFiles/SPR1DGAME.dir
+/home/alesmag/Downloads/SPR1DGAME/CMakeFiles/edit_cache.dir
+/home/alesmag/Downloads/SPR1DGAME/CMakeFiles/rebuild_cache.dir

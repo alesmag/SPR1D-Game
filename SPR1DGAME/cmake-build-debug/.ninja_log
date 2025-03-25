@@ -1,0 +1,18 @@
+# ninja log v5
+3	94	6816978848549643	CMakeFiles/ProgettoFinale.dir/main.c.obj	c3f8103d4ad30b90
+111	189	6816978849489633	ProgettoFinale.exe	9e4b6affa36cdefe
+6	104	6816962437699420	CMakeFiles/ProgettoFinale.dir/Giochi/Biglie/Biglie.c.obj	4dc35d97dd1ac456
+6	111	6816978848729633	CMakeFiles/ProgettoFinale.dir/Fasi/Finale/Finale.c.obj	d6211e8b27e347fb
+5	95	6816978848549643	CMakeFiles/ProgettoFinale.dir/Fasi/Svolgimento/Svolgimento.c.obj	de548c91bc1df3f5
+3	145	6816951191078520	CMakeFiles/ProgettoFinale.dir/Utils/Utils.c.obj	eb86a2e3ec066f74
+0	161	6816982473719753	build.ninja	3973cb8be842a885
+5	98	6816962437649414	CMakeFiles/ProgettoFinale.dir/Fasi/Scrematura/Scrematura.c.obj	6a1ca12c7a3734e9
+6	129	6816970266015065	CMakeFiles/ProgettoFinale.dir/Giochi/MorraCinese/MorraCinese.c.obj	c5caa5d4647271f2
+12	130	6816970266065062	CMakeFiles/ProgettoFinale.dir/Giochi/Dadi/Dadi.c.obj	7bf50b683625b2d2
+10	127	6816970266015065	CMakeFiles/ProgettoFinale.dir/Giochi/PariDispari/PariDispari.c.obj	4cb722fe6f7872db
+8	130	6816970266035067	CMakeFiles/ProgettoFinale.dir/Giochi/Murra/Murra.c.obj	4406d143731cc35e
+12	110	6816962437759420	CMakeFiles/ProgettoFinale.dir/Fasi/Inizio.c.obj	9e1545ef1f6baf70
+9	101	6816978848629667	CMakeFiles/ProgettoFinale.dir/Giochi/Impiccato/Impiccato.c.obj	4cbb3b63434bf606
+11	103	6816978848639682	CMakeFiles/ProgettoFinale.dir/Giochi/Tris/Tris.c.obj	abdc61b30629c233
+3	89	6816985864301093	CMakeFiles/ProgettoFinale.dir/Utils/Utils.c.obj	eb86a2e3ec066f74
+90	178	6816985865161085	ProgettoFinale.exe	9e4b6affa36cdefe
