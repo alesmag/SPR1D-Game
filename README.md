@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-gray" alt="C">
-  <img src="https://img.shields.io/badge/Make-yellow" alt="Make">
-  <img src="https://img.shields.io/badge/CMake-blue" alt="CMake">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Make-FFD43B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
 </p>
 
 ---
